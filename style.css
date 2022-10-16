@@ -1,0 +1,45 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:aquamarine;
+}
+h1{
+    text-align: center;
+    background-color:greenyellow;
+}
+img{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    width: 100%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+.top-nav li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+button{
+    padding: 9px 25px;
+    background-color: burlywood;
+    border: none;
+    border-radius: 50px;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+form{
+    background-color: white;
+    box-sizing: border-box;
+    width: 50%;
+    align-items: center;;
+}
+.app{
+    padding: 30px 10%;
+}
